@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PK-Shop/static/css/main.1c10c1b8.css",
+    "main.js": "/PK-Shop/static/js/main.b3ab2fae.js",
+    "index.html": "/PK-Shop/index.html",
+    "main.1c10c1b8.css.map": "/PK-Shop/static/css/main.1c10c1b8.css.map",
+    "main.b3ab2fae.js.map": "/PK-Shop/static/js/main.b3ab2fae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c10c1b8.css",
+    "static/js/main.b3ab2fae.js"
+  ]
+}
